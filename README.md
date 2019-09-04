@@ -8,3 +8,4 @@ This log begins on September 4, 2019.
 ---
 #### Wednesday, September 4th, 2019
 - Reading: [Analysis of the average JavaScript developer and their favourite tools - By Ryan Daws](https://https://www.developer-tech.com/news/2019/sep/03/analysis-average-javascript-developer-favourite-tools/)
+- Creating: Scope for Decision Making app
