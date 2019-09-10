@@ -6,6 +6,10 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Monday, September 9th, 2019
+- Reading: [You’re Not Lazy, Bored, or Unmotivated](https://forge.medium.com/youre-not-lazy-bored-or-unmotivated-35891b1f3376)
+- Creating: Front End Landing Page and Decision Item Page
+
 #### Friday, September 6th, 2019
 - Reading: [The Secret to Being a Top Developer Is Building Things! Here’s a List of Fun Apps to Build! - By Indrek Lasn](https://medium.com/better-programming/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - Creating: Setting up Trello Board
