@@ -6,6 +6,9 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Wednesday, September 11th, 2019
+- Reading: [The 10 Best Coding Challenge Websites for 2018 - By Daniel Borowski](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+
 #### Tuesday, September 10th, 2019
 - Reading: [How To Lead When You Have No Authority - By Matt Russell](https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4)
 - Reading: [A CEO who just raised $200 million from SoftBank refuses to run his business from Silicon Valley, where rents and talent are overpriced - By Sandy Kemper](https://headtopics.com/us/a-ceo-who-just-raised-200-million-from-softbank-refuses-to-run-his-business-from-silicon-valley-wh-7908117)
