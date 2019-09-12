@@ -6,6 +6,10 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Thursday, September 12th, 2019
+- Reading: [Ethics, Values and Practices for Software Professionals - By Rafiq Gemmail](https://www.infoq.com/news/2017/11/software-ethics-values-practices/)
+- Learning: [Learn the MERN Stack Full Tutorial (MongoDB, Express, React, Node.js)](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+
 #### Wednesday, September 11th, 2019
 - Reading: [The 10 Best Coding Challenge Websites for 2018 - By Daniel Borowski](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 
