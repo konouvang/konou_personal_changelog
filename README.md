@@ -7,6 +7,7 @@ This log begins on September 4, 2019.
 
 ---
 #### Thursday, September 12th, 2019
+- Reading: [How to think like a programmer — lessons in problem solving - By Richard Reis](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 - Reading: [Ethics, Values and Practices for Software Professionals - By Rafiq Gemmail](https://www.infoq.com/news/2017/11/software-ethics-values-practices/)
 - Learning: [Learn the MERN Stack Full Tutorial (MongoDB, Express, React, Node.js)](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 
