@@ -6,6 +6,9 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Friday, September 13th, 2019
+- Reading: [What is an API? In English, please. - By Petr Gazarov](https://medium.com/free-code-camp/what-is-an-api-in-english-please-b880a3214a82)
+
 #### Thursday, September 12th, 2019
 - Reading: [How to think like a programmer — lessons in problem solving - By Richard Reis](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 - Reading: [Ethics, Values and Practices for Software Professionals - By Rafiq Gemmail](https://www.infoq.com/news/2017/11/software-ethics-values-practices/)
