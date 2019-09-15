@@ -6,6 +6,11 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Saturday, September 14th, 2019
+- Reading: [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ - By Quincy Larson](https://medium.com/free-code-camp/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d)
+- Activity: Coding and Cupcakes - Game programming with Python
+
+
 #### Friday, September 13th, 2019
 - Reading: [What is an API? In English, please. - By Petr Gazarov](https://medium.com/free-code-camp/what-is-an-api-in-english-please-b880a3214a82)
 
