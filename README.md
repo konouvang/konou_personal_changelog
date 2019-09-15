@@ -8,6 +8,7 @@ This log begins on September 4, 2019.
 ---
 #### Sunday, September 15th, 2019
 - Reading: [Good habits to have as an aspiring/junior developer - and habits to avoid - By Chris Blakely](https://www.freecodecamp.org/news/good-habits-to-have-as-an-aspiring-junior-developer-and-those-to-avoid/)
+- Reading: [Why Can't Programmers.. Program? - Jeff Atwood](https://blog.codinghorror.com/why-cant-programmers-program/)
 
 #### Saturday, September 14th, 2019
 - Reading: [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ - By Quincy Larson](https://medium.com/free-code-camp/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d)
