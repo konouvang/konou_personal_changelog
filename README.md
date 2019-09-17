@@ -6,6 +6,9 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Tuesday, September 17th, 2019
+- Reading: [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+
 #### Sunday, September 15th, 2019
 - Reading: [Good habits to have as an aspiring/junior developer - and habits to avoid - By Chris Blakely](https://www.freecodecamp.org/news/good-habits-to-have-as-an-aspiring-junior-developer-and-those-to-avoid/)
 - Reading: [Why Can't Programmers.. Program? - Jeff Atwood](https://blog.codinghorror.com/why-cant-programmers-program/)
