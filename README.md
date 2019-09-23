@@ -6,19 +6,22 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Monday, September 23th, 2019
+- Reading: [So You Want to be a Functional Programmer (Part 6) - By Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
+
 #### Sunday, September 22th, 2019
-- Reading: [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
-- Reading: [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+- Reading: [So You Want to be a Functional Programmer (Part 5) - By Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+- Reading: [So You Want to be a Functional Programmer (Part 4) - By Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
 - Reading: [This is why you should learn the Elixir programming language - By Eva Short](https://www.siliconrepublic.com/advice/elixir-programming-language-career)
 
 #### Friday, September 20th, 2019
-- Reading: [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+- Reading: [So You Want to be a Functional Programmer (Part 3) - By Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
 
 #### Thursday, September 19th, 2019
-- Reading: [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+- Reading: [So You Want to be a Functional Programmer (Part 2 - By Charles Scalfani)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
 
 #### Tuesday, September 17th, 2019
-- Reading: [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+- Reading: [So You Want to be a Functional Programmer (Part 1) - By Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 
 #### Sunday, September 15th, 2019
 - Reading: [Good habits to have as an aspiring/junior developer - and habits to avoid - By Chris Blakely](https://www.freecodecamp.org/news/good-habits-to-have-as-an-aspiring-junior-developer-and-those-to-avoid/)
