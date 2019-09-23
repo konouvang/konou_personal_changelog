@@ -6,6 +6,11 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Sunday, September 22th, 2019
+- Reading: [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+- Reading: [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+- Reading: [This is why you should learn the Elixir programming language - By Eva Short](https://www.siliconrepublic.com/advice/elixir-programming-language-career)
+
 #### Friday, September 20th, 2019
 - Reading: [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
 
