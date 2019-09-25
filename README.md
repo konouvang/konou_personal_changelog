@@ -6,6 +6,10 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Wednesday, September 25th, 2019
+- Reading: [What I Learned in My First Two Years as a Software Engineer - By Mitchell Irvin](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd)
+- Learning: Learn Functional Programing with Elixir - Ulisses Almeida - Finish chapter 1
+
 #### Tuesday, September 24th, 2019
 - Reading: [Composition over Inheritance - By Mattias Petter Johansson](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 - Learning: Learn Functional Programing with Elixir - Ulisses Almeida - Intro and half of chapter 1
