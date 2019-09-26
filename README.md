@@ -6,6 +6,11 @@ This is a personal changelog of my updates to help track my progress in learning
 This log begins on September 4, 2019.
 
 ---
+#### Thursday, September 26th, 2019
+- Reading: [Mini-Brains Grown In a Lab Have Human-Like Brain Activity - By Emily Mullin](https://onezero.medium.com/lab-grown-mini-brains-have-human-like-brain-activity-2b5eeac9e969)
+- Reading: [A Software Engineering survival guide - By Valeri Alexiev](https://medium.com/free-code-camp/a-software-engineering-survival-guide-fe3eafb47166)
+- Reading: [Uncomfortable Truths You Must Accept to Be Happy - Darius Foroux](https://forge.medium.com/uncomfortable-truths-about-life-i-never-should-have-ignored-6dfef09059ba)
+
 #### Wednesday, September 25th, 2019
 - Reading: [What I Learned in My First Two Years as a Software Engineer - By Mitchell Irvin](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd)
 - Learning: Learn Functional Programing with Elixir - Ulisses Almeida - Finish chapter 1
